@@ -1,0 +1,15 @@
+/*----------------- Styling for Shortcode Builder -------------------*/
+
+#shortcode_select {
+    height: 25px;
+    }
+
+#shortcode_select input, #shortcode_select select, #shortcode_select textarea {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    }
+
+#shortcode_tab a {
+    font-size: 12px;
+    }
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImN1c3RvbS1lZGl0b3Itc3R5bGUuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLHVFQUF1RTs7QUFFdkU7SUFDSSxhQUFhO0tBQ1o7O0FBRUw7SUFDSSxtREFBbUQ7SUFDbkQsZ0JBQWdCO0tBQ2Y7O0FBRUw7SUFDSSxnQkFBZ0I7S0FDZiIsImZpbGUiOiJjdXN0b20tZWRpdG9yLXN0eWxlLmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi8qLS0tLS0tLS0tLS0tLS0tLS0gU3R5bGluZyBmb3IgU2hvcnRjb2RlIEJ1aWxkZXIgLS0tLS0tLS0tLS0tLS0tLS0tLSovXG5cbiNzaG9ydGNvZGVfc2VsZWN0IHtcbiAgICBoZWlnaHQ6IDI1cHg7XG4gICAgfVxuXG4jc2hvcnRjb2RlX3NlbGVjdCBpbnB1dCwgI3Nob3J0Y29kZV9zZWxlY3Qgc2VsZWN0LCAjc2hvcnRjb2RlX3NlbGVjdCB0ZXh0YXJlYSB7XG4gICAgZm9udC1mYW1pbHk6IFZlcmRhbmEsIEFyaWFsLCBIZWx2ZXRpY2EsIHNhbnMtc2VyaWY7XG4gICAgZm9udC1zaXplOiAxMnB4O1xuICAgIH1cblxuI3Nob3J0Y29kZV90YWIgYSB7XG4gICAgZm9udC1zaXplOiAxMnB4O1xuICAgIH0iXX0= */
