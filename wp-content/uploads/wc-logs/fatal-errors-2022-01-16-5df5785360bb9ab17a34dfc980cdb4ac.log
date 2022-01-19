@@ -1,0 +1,4 @@
+2022-01-16T19:47:45+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /Applications/MAMP/htdocs/tv-armor/wp-content/themes/agile/templates/page-content.php on line 16
+
+2022-01-16T19:48:01+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /Applications/MAMP/htdocs/tv-armor/wp-content/themes/agile/templates/page-content.php on line 16
+
